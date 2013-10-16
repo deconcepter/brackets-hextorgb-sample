@@ -1,0 +1,12 @@
+{
+    "name": "jp.codezine.hex_to_rgb",
+    "title": "Replace Hex text to RGB text sample",
+    "description": "選択したHEX値のテキストをCSS書式のRGBテキストに変換するサンプルプラグインです。",
+    "homepage": "https://github.com/deconcepter/brackets-simple-dialog-sample",
+    "version": "0.0.1",
+    "author": "http://twitter.com/deconcepter",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.30.0"
+    }
+}
